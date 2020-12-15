@@ -384,7 +384,7 @@ footer {
     padding-right: 130px;
   }
 
-  .nav-two a {
+  .links {
     text-decoration: none;
     font-size: 20px;
     color: #ec5242;
@@ -395,7 +395,7 @@ footer {
     transition: background-color 800ms, color 200ms;
   }
 
-  .nav-two a :hover {
+  .links:hover {
     background-color: rgb(182, 173, 136);
     color: white;
   }
