@@ -42,7 +42,7 @@
 .upper-sec h1 {
   font-family: "coco";
   background-image: url(img/texture2.jpg);
-  background-clip: text;
+  background-clip: content-box;
   -webkit-background-clip: text;
   font-size: 30px;
   color: white;
@@ -234,6 +234,10 @@ footer p {
   align-items: center;
 }
 
+footer img {
+  width: 50%;
+}
+
 .brands img {
   width: 33.33%;
   padding: 7px;
@@ -245,10 +249,6 @@ footer {
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
   justify-items: center;
-}
-
-footer img {
-  width: 50%;
 }
 
 /* About page  */
