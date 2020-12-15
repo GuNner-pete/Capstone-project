@@ -8,6 +8,7 @@
   padding: 0;
   border: 0;
 }
+
 /* Nav bars edit */
 .nav-three {
   padding: 0 5%;
@@ -26,6 +27,7 @@
 .nav-two {
   display: none;
 }
+
 /* Upper section edit */
 .upper-sec {
   background-image: url(img/tixture.jpg);
@@ -64,12 +66,21 @@
   font-size: 30px;
 }
 
+footer p {
+  font-size: 15px;
+  margin: 0;
+  text-align: center;
+  font-family: "Lato", sans-serif;
+  font-weight: 800;
+}
+
 .booking p {
   font-family: coco;
   font-size: 18px;
   color: #272a31;
   margin: 0;
 }
+
 /* programe content edit */
 .main-prog {
   display: flex;
@@ -95,6 +106,7 @@
   flex-flow: column;
   justify-content: space-around;
 }
+
 /* main programme edits */
 .prog {
   color: white;
@@ -130,6 +142,7 @@
   color: #ec5242;
   align-self: center;
 }
+
 /* lectuerers edit */
 .speakers-sec {
   display: flex;
@@ -138,6 +151,7 @@
   margin-bottom: 10px;
   padding: 0 5%;
 }
+
 /* speakers section edit */
 .speakers {
   display: flex;
@@ -237,17 +251,11 @@ footer img {
   width: 50%;
 }
 
-footer p {
-  font-size: 15px;
-  margin: 0;
-  text-align: center;
-  font-family: "Lato", sans-serif;
-  font-weight: 800;
-}
 /* About page  */
 .about-h {
   color: #ec5242;
 }
+
 .about {
   text-align: center;
   font-family: "Lato", sans-serif;
