@@ -23,7 +23,12 @@ About:
 Live Demo 
     https://gunner-pete.github.io/Capstone-project/
 </h1>
-## By:
+<h1>
+  :notebook_with_decorative_cover: Acknowledgment:
+</h1>
+
+# The original design of this page was made by [Cindy Shin](https://www.behance.net/adagio07)
+
 <h1 align="center">
 Peter Mo Gerges
 </h1>
