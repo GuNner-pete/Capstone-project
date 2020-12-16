@@ -227,8 +227,9 @@ footer p {
 }
 
 .sponsors h2 {
-  color: #d3d3d3;
+  color: #d3d3d385;
   font-family: "Lato", sans-serif;
+  text-shadow: 3px 3px rgba(82, 81, 81, 0.849);
 }
 
 .brands {
@@ -411,7 +412,7 @@ footer {
 .submit {
   width: 100%;
   padding: 10px;
-  background-color: black;
+  background-color: rgb(39, 26, 100);
   color: white;
   border-radius: 20px;
   min-height: 50px;
@@ -419,7 +420,7 @@ footer {
 }
 
 .submit:hover {
-  background-color: #5e1b13;
+  background-color: rgb(114, 96, 219);
 }
 
 @media only screen and (min-width: 767px) {
