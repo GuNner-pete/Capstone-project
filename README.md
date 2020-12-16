@@ -21,6 +21,9 @@ About:
 - HTML.
 - CSS.
 - Bootstrap.
+
+![screenshot](img/shot.jpg)
+
 <h1 align="center">
 Live Demo 
     https://gunner-pete.github.io/Capstone-project/
