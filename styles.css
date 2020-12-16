@@ -12,6 +12,7 @@
 p {
   margin: 0;
 }
+
 /* Nav bars edit */
 .nav-three {
   padding: 0 5%;
@@ -350,7 +351,8 @@ footer {
 }
 
 /* Tickets page */
-.main-ticket, .lunch {
+.main-ticket,
+.lunch {
   display: flex;
   flex-flow: column;
   align-items: center;
@@ -381,6 +383,8 @@ footer {
 
 .step p {
   padding: 0 15px;
+  font-size: 15px;
+  text-align: center;
 }
 
 .step:hover {
@@ -394,13 +398,8 @@ footer {
   font-size: 15px;
 }
 
-.step p {
-  font-size: 15px;
-  text-align: center;
-}
-
 .lunch {
-position: relative;
+  position: relative;
   background-color: white;
 }
 
@@ -574,7 +573,7 @@ position: relative;
   .lec-img {
     width: 130px;
   }
-  
+
   .discription {
     font-size: 13px;
   }
