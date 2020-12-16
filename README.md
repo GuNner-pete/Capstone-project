@@ -1,11 +1,13 @@
 <h1 align="center">
 Project Name: Morning Programming Cources
 </h1>
-
-##About:
-
+<h2 align="center">
+About:
+</h2>
+<p align="center">
 -My First Solo Project at Microverse.<br>
 -Built as a responsive three pages linked to each other:<br>
+</p>
 <p align="center">
     1-Home page.<br>
     2-About page.<br>
@@ -18,7 +20,8 @@ Project Name: Morning Programming Cources
 - CSS.
 -Bootstrap.
 <h1 align="center">
-[Live Demo](https://gunner-pete.github.io/Capstone-project/)
+Live Demo 
+    https://gunner-pete.github.io/Capstone-project/
 </h1>
 ## By:
 <h1 align="center">
@@ -49,5 +52,4 @@ Give a ⭐️ if you like this project!
 </h2>
 <h3 align="center">
 This project is [MIT](https://github.com/GuNner-pete/MIT-License/blob/main/README.md) licensed.
-📝 License
 </h3>
