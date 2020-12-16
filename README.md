@@ -12,6 +12,8 @@ About:
     1-Home page.<br>
     2-About page.<br>
     3-Booking Page "join".<br>
+    4-FontAwesome icons.<br>
+    5-Google Fonts.<br>
 </p>
 
 ## Built With
