@@ -18,7 +18,7 @@ About:
 
 - HTML.
 - CSS.
--Bootstrap.
+- Bootstrap.
 <h1 align="center">
 Live Demo 
     https://gunner-pete.github.io/Capstone-project/
