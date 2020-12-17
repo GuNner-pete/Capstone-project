@@ -12,8 +12,6 @@ About:
     1-Home page.<br>
     2-About page.<br>
     3-Booking Page "join".<br>
-    4-FontAwesome icons.<br>
-    5-Google Fonts.<br>
 </p>
 
 ## Built With
@@ -21,6 +19,8 @@ About:
 - HTML.
 - CSS.
 - Bootstrap.
+-FontAwesome icons.
+-Google Fonts.
 
 ![screenshot](img/shot.jpg)
 
@@ -28,17 +28,15 @@ About:
 How to clone and use:
 </h2>
 
-    1- Open your terminal.<br>
-    2- Paste "git clone https://github.com/GuNner-pete/Capstone-project.git" in the terminal.<br>
-    3- cd Capstone-project<br>
-    4- Open index.html<br>
+    1- Open your terminal.
+    2- Paste "git clone https://github.com/GuNner-pete/Capstone-project.git" in the terminal.
+    3- cd Capstone-project
+    4- Open index.html
     5- Congratulations, now you got the data!
 
 
-<h1 align="center">
-Live Demo 
-    https://gunner-pete.github.io/Capstone-project/
-</h1>
+# [Live Demo](https://gunner-pete.github.io/Capstone-project/)
+
 <h1>
   :notebook_with_decorative_cover: Acknowledgment:
 </h1>
@@ -71,6 +69,6 @@ Give a ⭐️ if you like this project!
 <h2 align="center">
 📝 License
 </h2>
-<h3 align="center">
-This project is [MIT](https://github.com/GuNner-pete/MIT-License/blob/main/README.md) licensed.
-</h3>
+
+## This project is [MIT](https://github.com/GuNner-pete/MIT-License/blob/main/README.md) licensed.
+
