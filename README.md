@@ -35,10 +35,8 @@ How to clone and use:
     5- Congratulations, now you got the data!
 
 
-<h1 align="center">
-Live Demo 
-    https://gunner-pete.github.io/Capstone-project/
-</h1>
+# [Live Demo](https://gunner-pete.github.io/Capstone-project/)
+
 <h1>
   :notebook_with_decorative_cover: Acknowledgment:
 </h1>
@@ -71,6 +69,6 @@ Give a ⭐️ if you like this project!
 <h2 align="center">
 📝 License
 </h2>
-<h3 align="center">
-This project is [MIT](https://github.com/GuNner-pete/MIT-License/blob/main/README.md) licensed.
-</h3>
+
+## This project is [MIT](https://github.com/GuNner-pete/MIT-License/blob/main/README.md) licensed.
+
