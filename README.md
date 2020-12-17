@@ -1,5 +1,5 @@
 <h1 align="center">
-Project Name: Morning Programming Cources
+Project Name: Morning Programming Courses
 </h1>
 <h2 align="center">
 About:
@@ -21,6 +21,20 @@ About:
 - HTML.
 - CSS.
 - Bootstrap.
+
+![screenshot](img/shot.jpg)
+
+<h2 align="center">
+How to clone and use:
+</h2>
+
+    1- Open your terminal.<br>
+    2- Paste "git clone https://github.com/GuNner-pete/Capstone-project.git" in the terminal.<br>
+    3- cd Capstone-project<br>
+    4- Open index.html<br>
+    5- Congratulations, now you got the data!
+
+
 <h1 align="center">
 Live Demo 
     https://gunner-pete.github.io/Capstone-project/
