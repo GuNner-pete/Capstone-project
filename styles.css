@@ -32,9 +32,12 @@ p {
   display: none;
 }
 
+.texture {
+  background-image: url(img/tixture.jpg);
+}
+
 /* Upper section edit */
 .upper-sec {
-  background-image: url(img/tixture.jpg);
   padding: 10px 5%;
 }
 
@@ -360,6 +363,12 @@ footer {
   align-items: center;
   padding: 50px 5% 30px 5%;
   background-color: #d3d3d35e;
+}
+
+.main-ticket h1 {
+  font-family: coco;
+  color: #ec5242;
+  text-shadow: #00000083 3px 2px;
 }
 
 .table {
