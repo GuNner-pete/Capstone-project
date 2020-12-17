@@ -366,7 +366,7 @@ footer {
 }
 
 .main-ticket h1 {
-  font-family: coco;
+  font-family: coco, sans-serif;
   color: #ec5242;
   text-shadow: #00000083 3px 2px;
 }
