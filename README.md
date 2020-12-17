@@ -1,5 +1,5 @@
 <h1 align="center">
-Project Name: Morning Programming Cources
+Project Name: Morning Programming Courses
 </h1>
 <h2 align="center">
 About:
