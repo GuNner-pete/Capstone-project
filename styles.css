@@ -34,6 +34,8 @@ p {
 
 .texture {
   background-image: url(img/tixture.jpg);
+  padding: 10px 5%;
+
 }
 
 /* Upper section edit */
@@ -265,6 +267,14 @@ footer {
   color: #ec5242;
 }
 
+.three-ticket {
+  padding: 3px 5%;
+}
+
+.bg-color {
+  background: #d3d3d3e0;
+}
+
 .about {
   text-align: center;
   font-family: "Lato", sans-serif;
@@ -273,7 +283,6 @@ footer {
   padding: 10px;
   margin-bottom: 15px;
   border: 1px #d3d3d3 solid;
-  background: #d3d3d3e0;
 }
 
 .email {
@@ -368,6 +377,8 @@ footer {
 .main-ticket h1 {
   font-family: coco, sans-serif;
   color: #ec5242;
+  text-align: center;
+  max-width: 90%;
   text-shadow: #00000083 3px 2px;
 }
 
