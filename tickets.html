@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tickets</title>
+  <script src="https://kit.fontawesome.com/yourcode.js"></script>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <nav class="nav-one">
+    <i class="fa fa-twitter nav-ico"></i>
+    <i class="fa fa-facebook-f nav-ico"></i>
+    <p>logout</p>
+    <p>Mypage</p>
+    <p>Korean</p>
+  </nav>
+  <nav class="nav-two">
+    <a href="index.html"><img src="img/Logo.png" alt="Logo"></a>
+    <a class="links" href="about.html">About</a>
+    <a class="links" href="#">Course</a>
+    <a class="links" href="tickets.html">Join</a>
+    <a class="links" href="#">Sponsor</a>
+    <a class="links" href="#">News</a>
+  </nav>
+  <div class="nav-three three-ticket bg-color">
+  <nav>
+    <div class="dropdown">
+      <button class="btn dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false"><i class="fa fa-bars"></i></button>
+      <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+        <li><a class="dropdown-item" href="#">sdad</a></li>
+        <li><a class="dropdown-item" href="#">asda</a></li>
+        <li><a class="dropdown-item" href="#">sadas</a></li>
+      </ul>
+    </div>
+  </nav>
+  </div>
+
+  <section class="main-ticket bg-color">
+    <h1>Here you can get your place</h1>
+    <h2 class="justify-self-center">Select Your Package</h2>
+    <div class="step d-sm-flex flex-sm-column align-items-sm-center text-align-sm-center flex-md-row">
+    <span>♦ STEP 1</span>
+    <p>Please select your package to join the programme</p>
+    </div>
+    <table class="table table-bordered d-none d-md-block">
+      <thead class="table-dark">
+        <tr>
+          <th scope="col">Normal Package</th>
+          <th scope="col">Premium Package</th>
+          <th scope="col">VIP Package</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="bg-white">
+          <td class="text-align-center"><p>Provides you the basics in all included programing languages</p></td>
+          <td>Provides you the basics in all included programing languages <p>+</p> Some code challanges and projects</td>
+          <td>Provides you the basics in all included programing languages <p>+</p> Some code challanges and projects<p>+</p>Two month of career coatching sessions</td>
+        </tr>
+        <tr class="bg-white">
+          <th>100$/Month</th>
+          <th>200$/Month</th>
+          <th>300$/Month</th>
+        </tr>
+        <tr class="bg-white">
+          <td><input type="radio" name="pack" value="normal"></td>
+          <td><input type="radio" name="pack" value="premium"></td>
+          <td><input type="radio" name="pack" value="vip"></td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="table table-bordered d-md-none">
+      <tr class="table-dark">
+        <th >Normal Package</th>
+        <td><p>Provides you the basics in all included programing languages</p></td>
+        <th>100$/Month</th>
+      </tr>
+      <tr>
+      <td class="bg-white" colspan="3"><input type="radio" name="pack" value="normal">
+      </td></tr>
+      <tr class="table-dark">
+        <th>Premium Package</th>
+        <td>Provides you the basics in all included programing languages <p>+</p> Some code challanges and projects</td>
+        <th>200$/Month</th>
+      </tr>
+      <tr>
+      <td class="bg-white" colspan="3"><input type="radio" name="pack" value="normal">
+      </td></tr>
+      <tr class="table-dark">
+        <th>VIP Package</th>
+        <td>Provides you the basics in all included programing languages <p>+</p> Some code challanges and projects<p>+</p>Two month of career coatching sessions</td>
+        <th>300$/Month</th>
+      </tr>
+      <tr>
+      <td class="bg-white" colspan="3"><input type="radio" name="pack" value="normal">
+      </td></tr>
+    </table>
+  </section>
+  <section class="lunch">
+    <img src="img/dwn-arrow.png" class="dwn-arrow" alt="down arrow">
+    <div class="step d-sm-flex flex-sm-column align-items-sm-center text-align-sm-center flex-md-row">
+    <span>♦ STEP 2</span>
+    <p>Please select your appropriate schedual for the programme</p>
+    </div>
+    <table class="table sched-table table-bordered">
+      <thead class="table-dark">
+        <tr>
+          <th>Select schedual</th>
+          <th>Saturday <p>+</p> Tuseday</th>
+          <th>Sunday <p>+</p> Wednesday</th>
+          <th>Monday <p>+</p> Thursday</th>
+        </tr>
+      </thead>
+        <tr class="bg-white">
+          <th>
+            First schedual
+            <p>from 3 PM To 5 PM</p>
+          </th>
+          <th><input type="radio" name="schedual" value="schedual-one"></th>
+          <th><input type="radio" name="schedual" value="schedual-one"></th>
+          <th><input type="radio" name="schedual" value="schedual-one"></th>
+        </tr>
+        <tr class="bg-white">
+          <th>
+            First schedual
+            <p>from 3 PM To 5 PM</p>
+          </th>
+          <th><input type="radio" name="schedual" value="schedual-one"></th>
+          <th><input type="radio" name="schedual" value="schedual-one"></th>
+          <th><input type="radio" name="schedual" value="schedual-one"></th>
+        </tr>
+    </table>
+    <button class="submit">SUBMIT</button>
+  </section>
+  <section class="sponsors">
+        <h2>Partner</h2>
+        <div class="brands">
+          <img src="img/mozilla.png" alt="mozilla">
+          <img src="img/google.png" alt="google">
+          <img src="img/Navir.png" alt="navir">
+          <img src="img/damako.png" alt="damako">
+          <img src="img/ara.png" alt="ara">
+        </div>
+  </section>
+  <footer>
+      <img src="img/Logo.png" alt="footer logo">
+      <p>All Righrts Are Reserved @Morning Inc.</p>
+  </footer>
+</body>
+</html>
